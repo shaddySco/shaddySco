@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff)
 
 ### 🚀 About Me
 
@@ -16,25 +16,21 @@
 
 ### 🛠️ Technologies & Tools
 
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=dark)              
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=dark)  
+![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=gruvbox)              
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox)  
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadrackwahinya/)  
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadrackwahinya/)  
+[![Gmail](https://img.shields.io/badge/Gmail-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
@@ -48,7 +44,7 @@
 
 ### ⚡ Fun Fact
 
-![Quote](https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs&theme=gruvbox)
 
 ---
 
