@@ -10,7 +10,7 @@
 - Web Development
 - Data Structures and Algorithms
 
-📚 Always learning and growing — "All for Jesus, nothing for me."
+📚 Always learning and growing 
 
 ---
 
