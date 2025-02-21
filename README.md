@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats
 
-![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=radical)  
+![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=radical)  
+
 
 ---
 
