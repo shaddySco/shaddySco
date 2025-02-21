@@ -49,9 +49,9 @@
 
 ### ⚡ Fun Fact
 
-> I’m a **Philomath** — a lover of learning and knowledge!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs&theme=radical)
+
 
 ---
 
