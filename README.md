@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=#f92404&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=f92404&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff)
 
 ### 🚀 About Me
 
@@ -16,7 +16,7 @@
 
 ### 🛠️ Technologies & Tools
 
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-ff4000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ff4000?style=for-the-badge&logo=javascript&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-f92404?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f92404?style=for-the-badge&logo=javascript&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
@@ -30,7 +30,7 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadrackwahinya/)  
-[![Gmail](https://img.shields.io/badge/Gmail-ff4000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-f92404?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
