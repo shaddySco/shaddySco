@@ -25,7 +25,7 @@
              
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox&langs_count=10)
  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=gruvbox)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=gruvbox&area=true&hide_border=true&custom_title=My%20GitHub%20Activity&line=ff0000&point=ffffff)
 
 ---
 
