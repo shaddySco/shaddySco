@@ -25,7 +25,6 @@
              
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox&langs_count=10)
  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox&langs_count=10)
 
 ---
 
