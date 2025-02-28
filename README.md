@@ -1,4 +1,4 @@
-![Custom Font](https://img.shields.io/badge/Hi,%20I'm%20Shadrack%20Wahinya%20🐼-F24405?style=for-the-badge&labelColor=000000&logo=panda)
+![Custom Font](https://img.shields.io/badge/Hi,%20I'm%20Shadrack%20Wahinya%20🐼-f92404?style=for-the-badge&labelColor=000000&logo=panda)
 
 
 
