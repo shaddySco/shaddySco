@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F24405&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shadrack+Wahinya!;Welcome+to+my+GitHub+Profile!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=F24405&center=true&vCenter=true&width=700&lines=Hi,+I'm+Shadrack+Wahinya!;Software+Developer+%7C+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!)
 
 
 
