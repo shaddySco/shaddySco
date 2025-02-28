@@ -1,4 +1,4 @@
-![Welcome Banner](https://raw.githubusercontent.com/yourusername/repo/main/banner.png)
+![Welcome Banner](https://github.com/shaddySco/shaddySco/blob/main/banner.jpg?raw=true)
 
 
 
