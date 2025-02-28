@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=shark&color=F24405&height=150&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=000000)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=pill&color=F24405&height=150&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=000000)
 
 ### 🚀 About Me
 
