@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-👋 Hi, I'm **Shadrack Wahinya**  
+ 
 💻 **Tech Enthusiast** — passionate about building and exploring new technologies.
 
 🔍 Specializing in:
