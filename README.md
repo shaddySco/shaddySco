@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=curve&color=F24405&height=150&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=000000)
+![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=F24405&center=true&vCenter=true&width=1000&height=100&lines=Hi,+I'm+Shadrack+Wahinya;Welcome+to+my+GitHub!;Enjoy+Exploring+my+Projects!)
 
 ### 🚀 About Me
 
