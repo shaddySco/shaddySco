@@ -1,4 +1,4 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,f97316&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff&animation=fadeIn&customGradient=000000,FF4500)
 
 
 
