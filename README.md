@@ -1,4 +1,4 @@
-![Kung Fu Panda Meditation](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![Meditating Po](https://your-hosted-svg-link.com/po-meditating.svg)
 
 
 
