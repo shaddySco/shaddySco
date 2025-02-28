@@ -1,4 +1,4 @@
-![Animated Banner](https://media.giphy.com/media/YOUR-GIF-LINK-HERE/giphy.gif)
+![Animated Banner](https://raw.githubusercontent.com/thehugoalex/thehugoalex/main/assets/wave.svg)
 
 
 ### 🚀 About Me
