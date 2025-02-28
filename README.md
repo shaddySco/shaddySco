@@ -1,4 +1,5 @@
-<h2 align="center">✨ <span style="color:#f92404;">𝓗𝓲, 𝓘'𝓶 𝓢𝓱𝓪𝓭𝓻𝓪𝓬𝓴 𝓦𝓪𝓱𝓲𝓷𝔂𝓪 🐼</span> ✨</h2>
+![Custom Font](https://img.shields.io/badge/Hi,%20I'm%20Shadrack%20Wahinya%20🐼-F24405?style=for-the-badge&labelColor=000000&logo=panda)
+
 
 
 ### 🚀 About Me
