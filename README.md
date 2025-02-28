@@ -1,5 +1,4 @@
-![Meditating Po](https://your-hosted-svg-link.com/po-meditating.svg)
-
+![Po Meditating](https://raw.githubusercontent.com/shaddySco/shaddySco/main/kungfu-po-meditating.png)
 
 
 
