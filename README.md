@@ -1,4 +1,4 @@
-<h2 align="center">✨ <span style="color:#F24405;">𝓗𝓲, 𝓘'𝓶 𝓢𝓱𝓪𝓭𝓻𝓪𝓬𝓴 𝓦𝓪𝓱𝓲𝓷𝔂𝓪 🐼</span> ✨</h2>
+<h2 align="center">✨ <span style="color:#f92404;">𝓗𝓲, 𝓘'𝓶 𝓢𝓱𝓪𝓭𝓻𝓪𝓬𝓴 𝓦𝓪𝓱𝓲𝓷𝔂𝓪 🐼</span> ✨</h2>
 
 
 ### 🚀 About Me
