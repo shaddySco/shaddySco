@@ -21,12 +21,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true)
-             
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox&langs_count=10)
- 
+![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&custom_title=Shadrack's%20GitHub%20Stats)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox&langs_count=10)
+
 
 ### 📫 Let's Connect
 
