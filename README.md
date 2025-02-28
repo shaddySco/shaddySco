@@ -1,4 +1,12 @@
-![Animated Banner](https://raw.githubusercontent.com/thehugoalex/thehugoalex/main/assets/wave.svg)
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<div id="particles-js"></div>
+<script>
+  particlesJS("particles-js", {
+    particles: { number: { value: 80 }, size: { value: 3 } },
+    interactivity: { events: { onhover: { enable: true, mode: "repulse" } } }
+  });
+</script>
+
 
 
 ### 🚀 About Me
