@@ -1,14 +1,5 @@
-<picture>
-  <!-- Dark Mode Banner -->
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://capsule-render.vercel.app/api?type=slice&color=F24405&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff">
-  
-  <!-- Light Mode Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=F24405&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=000000" 
-       alt="Welcome Banner">
-</picture>
 
-
+![Welcome Banner](https://capsule-render.vercel.app/api?type=badge&color=F24405&height=200&section=header&text=Hi%20I'm%20Shadrack%20Wahinya&fontSize=40&fontColor=ffffff)
 
 
 ### 🚀 About Me
