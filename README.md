@@ -25,6 +25,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=gruvbox&langs_count=10)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=gruvbox)
+
+
 
 ### 📫 Let's Connect
 
