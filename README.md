@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-
+<div align="center">
 💻 **Programming & Scripting**  
 ![PHP](https://img.shields.io/badge/PHP-f92404?style=for-the-badge&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  ![Python](https://img.shields.io/badge/Python-f92404?style=for-the-badge&logo=python&logoColor=white)  
 
@@ -20,7 +20,7 @@
 
 🛠️ **Tools & Platforms**  
 ![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)  
-
+</div>
 ---
 
 ## 📊 GitHub Stats  
