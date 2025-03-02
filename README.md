@@ -1,6 +1,4 @@
-<h1 align="center">✨ <span style="color:#f97316;">𝓗𝓲, 𝓘'𝓶 𝓢𝓱𝓪𝓭𝓻𝓪𝓬𝓴 𝓦𝓪𝓱𝓲𝓷𝔂𝓪 🐼</span> ✨</h1>
-
----
+![Custom Font](https://img.shields.io/badge/Hi,%20I'm%20Shadrack%20Wahinya%20🐼-f92404?style=for-the-badge&labelColor=000000&logo=panda)
 
 ## 🚀 About Me  
 
@@ -15,19 +13,13 @@
 ## 🛠️ Tech Stack  
 
 💻 **Programming & Scripting**  
-![PHP](https://img.shields.io/badge/PHP-f97316?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  
-![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-f97316?style=for-the-badge&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  ![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=python&logoColor=white)  
 
 🌐 **Web Technologies**  
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)  
-![CSS3](https://img.shields.io/badge/CSS3-f97316?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)  ![CSS3](https://img.shields.io/badge/CSS3-f97316?style=for-the-badge&logo=css3&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
 
 🛠️ **Tools & Platforms**  
-![Linux](https://img.shields.io/badge/Linux-f97316?style=for-the-badge&logo=linux&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-f97316?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
