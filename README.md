@@ -13,13 +13,19 @@
 ## 🛠️ Tech Stack  
 
 💻 **Programming & Scripting**  
-![PHP](https://img.shields.io/badge/PHP-f97316?style=for-the-badge&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  ![Python](https://img.shields.io/badge/Python-f97316?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-f92404?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  
+![Python](https://img.shields.io/badge/Python-f92404?style=for-the-badge&logo=python&logoColor=white)  
 
 🌐 **Web Technologies**  
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)  ![CSS3](https://img.shields.io/badge/CSS3-f97316?style=for-the-badge&logo=css3&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=f92404)  
+![CSS3](https://img.shields.io/badge/CSS3-f92404?style=for-the-badge&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
 
 🛠️ **Tools & Platforms**  
-![Linux](https://img.shields.io/badge/Linux-f97316?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  
+![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
@@ -65,7 +71,7 @@
 ## 📬 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadrackwahinya/)  
-[![Gmail](https://img.shields.io/badge/Gmail-f97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-f92404?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
