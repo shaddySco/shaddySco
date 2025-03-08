@@ -25,7 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)  
 
 </div>
-
 ## 🚀 GitHub Stats  
 
 <p align="center">
@@ -49,7 +48,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized" alt="GitHub Contribution Graph" />
 </p>
 
----
 ## 🏆 Achievements  
 
 🎓 **Bachelor of Science in Business Information Technology**  
