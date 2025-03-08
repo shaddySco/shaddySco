@@ -8,6 +8,10 @@
 
 📚 _Always exploring and growing in tech!_
 
+#!/bin/bash
+
+# Fetch GitHub stats and display them
+curl -s https://api.github.com/users/shaddySco | jq
 
 
 
