@@ -24,37 +24,28 @@
 
 </div>
 ---
+## 🚀 GitHub Stats  
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=highcontrast&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=highcontrast)  
-
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shaddySco&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🔥 Most Used Languages  
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=highcontrast)  
-
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🎯 Contributions & Activity  
 
-<div align="center">
-
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=highcontrast)  
-
-</div>  
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=radical" alt="GitHub Contribution Graph" />
+</p>
 
 ## 🏆 Achievements  
 
