@@ -9,7 +9,8 @@
 📚 _Always exploring and growing in tech!_
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ShaddySco}&theme={theme_name}
+![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized)
+
 ---
 
 ## 🛠️ Tech Stack  
