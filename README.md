@@ -25,28 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)  
 
 </div>
-## 🚀 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shaddySco&theme=solarized" alt="GitHub Streak" />
-</p>
-
----
-
-## 🔥 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 Contributions & Activity  
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized" alt="GitHub Contribution Graph" />
-</p>
 
 ## 🏆 Achievements  
 
