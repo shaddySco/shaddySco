@@ -9,7 +9,7 @@
 📚 _Always exploring and growing in tech!_
 
 
-![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized)
+
 
 ---
 
@@ -29,8 +29,8 @@
 ## 🚀 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shaddySco&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shaddySco&theme=solarized" alt="GitHub Streak" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 🔥 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized" alt="Top Languages" />
 </p>
 
 ---
@@ -46,9 +46,8 @@
 ## 🎯 Contributions & Activity  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized" alt="GitHub Contribution Graph" />
 </p>
-
 
 ## 🏆 Achievements  
 
