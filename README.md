@@ -56,10 +56,8 @@
 ---
 
 ## ⏳ Coding Activity  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShaddySco)](https://wakatime.com/@ShaddySco)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shaddySco)](https://wakatime.com/@shaddySco)
-
----
 
 ## 🏆 Achievements  
 
