@@ -25,6 +25,32 @@
 ![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)  
 
 </div>
+## 🚀 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=solarized)
+
+---
+
+## 🔥 Most Used Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized)
+
+---
+
+## 🎯 Contributions & Activity  
+
+![GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized)
+
+---
+
+### You can also directly visit the image URLs in your browser to see if they are working:
+
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true)
+- [GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=solarized)
+- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized)
+- [GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized)
+
 
 ## 🏆 Achievements  
 
