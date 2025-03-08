@@ -26,6 +26,8 @@
 
 </div>
 ## 🚀 GitHub Stats  
+
+
 - [GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true)
 - [GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=solarized)
 - [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized)
