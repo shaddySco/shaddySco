@@ -12,6 +12,9 @@ h!_
 
 
 ---
+![GitHub Streak & Contributions](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaddySco&theme=solarized)
+![GitHub Commit Streak](https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=solarized)
+
 
 ## 🛠️ Tech Stack  
 <div align="center">
