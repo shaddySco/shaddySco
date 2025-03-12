@@ -30,7 +30,9 @@ h!_
 ### 🚀 GitHub Stats  
 
 <table>
-     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=solarized" alt="GitHub Contribution Graph" /></td>
+<tr>
+     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=solarized" alt="GitHub Contribution Graph" /></td>
+</tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized" alt="Top Languages" /></td>
