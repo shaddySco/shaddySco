@@ -30,7 +30,7 @@ h!_
 
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaddySco&theme=solarized" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-streak-stats.vercel.app/?user=shaddySco&theme=solarized" alt="GitHub Streak" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" /></td>
   </tr>
   <tr>
@@ -38,6 +38,7 @@ h!_
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized" alt="Top Languages" /></td>
   </tr>
 </table>
+
 
 ## 🏆 Achievements  
 
