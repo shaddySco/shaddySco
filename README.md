@@ -29,8 +29,10 @@
 
 <table>
 <tr>
-     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=high-contrast" 
-           alt="GitHub Contribution Graph" /></td>
+     <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=github-dark" 
+           alt="GitHub Contribution Graph" />
+     </td>
 </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" /></td>
