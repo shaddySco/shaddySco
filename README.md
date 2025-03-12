@@ -28,6 +28,8 @@ h!_
 </div>
 
 [![GitHub Skyline](https://skyline.github.com/shaddySco/2024)](https://skyline.github.com/shaddySco)
+![Commit Calendar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaddySco&theme=solarized)
+
 
 ## 🏆 Achievements  
 
