@@ -28,7 +28,7 @@ h!_
 </div>
 ### 🚀 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=solarized)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaddySco&theme=solarized)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true)  
 
