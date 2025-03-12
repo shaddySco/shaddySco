@@ -6,9 +6,7 @@
 🔹 **Currently Learning** — Advanced Data Structures & Algorithms, System Design.  
 🔹 **Interests** — Full Stack Development, Open Source Contributions, Mentorship.  
 
-📚 _Always exploring and growing in tec[![GitHub Skyline](https://skyline.github.com/shaddySco/2024)](https://skyline.github.com/shaddySco)
-h!_
-
+📚 _Always exploring and growing in tec[!
 
 
 ---
@@ -31,7 +29,8 @@ h!_
 
 <table>
 <tr>
-     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=solarized" alt="GitHub Contribution Graph" /></td>
+     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=high-contrast" 
+           alt="GitHub Contribution Graph" /></td>
 </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" /></td>
