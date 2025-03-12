@@ -6,7 +6,8 @@
 🔹 **Currently Learning** — Advanced Data Structures & Algorithms, System Design.  
 🔹 **Interests** — Full Stack Development, Open Source Contributions, Mentorship.  
 
-📚 _Always exploring and growing in tech!_
+📚 _Always exploring and growing in tec[![GitHub Skyline](https://skyline.github.com/shaddySco/2024)](https://skyline.github.com/shaddySco)
+h!_
 
 
 
@@ -25,14 +26,8 @@
 ![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)  
 
 </div>
-## 🚀 GitHub Stats  
 
-
-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true)
-- [GitHub Streak](https://streak-stats.demolab.com/?user=shaddySco&theme=solarized)
-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized)
-- [GitHub Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaddySco&theme=solarized)
-
+[![GitHub Skyline](https://skyline.github.com/shaddySco/2024)](https://skyline.github.com/shaddySco)
 
 ## 🏆 Achievements  
 
