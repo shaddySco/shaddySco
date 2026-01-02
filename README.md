@@ -49,11 +49,8 @@ I enjoy contributing to open-source, solving real problems, and mentoring other 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 
 <!-- Stats Cards -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&count_private=true&theme=solarized-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized-dark&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Metrics
+<img src="https://raw.githubusercontent.com/shaddySco/shaddySco/main/github-metrics.svg" />
 
 ---
 
