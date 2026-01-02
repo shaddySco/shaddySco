@@ -42,13 +42,6 @@ I enjoy contributing to open-source, solving real problems, and mentoring other 
 
 ---
 
-## 📊 GitHub Live Stats
-
-<!-- Activity Graph -->
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=github-dark&hide_border=true" alt="Contribution Graph" />
-
-<!-- Stats Cards -->
 ## 📊 Real-Time GitHub Insights
 
 <p align="center">
@@ -60,8 +53,6 @@ I enjoy contributing to open-source, solving real problems, and mentoring other 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaddySco&theme=radical&background=000000&stroke=f92404&fire=f92404&ring=f92404&currStreakLabel=f92404" alt="GitHub Streak" />
 </p>
----
-
 ## 🏆 Key Projects
 
 ### 🔧 Phone Inventory Management System
