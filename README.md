@@ -42,16 +42,25 @@ I enjoy contributing to open-source, solving real problems, and mentoring other 
 
 ---
 
+## 📈 Dynamic Analytics
+
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/shaddySco?languages=1&languages.limit=6&template=classic&config.timezone=Africa/Nairobi"
-    width="49%"
-  />
-  <img
-    src="https://metrics.lecoq.io/shaddySco?streak=1&activity=1&template=classic&config.timezone=Africa/Nairobi"
-    width="49%"
+    src="https://metrics.lecoq.io/shaddySco
+    ?template=classic
+    &languages=1
+    &languages.limit=8
+    &languages.colors=github
+    &languages.sections=most-used
+    &streak=1
+    &activity=1
+    &base=header,activity,community,repositories,metadata
+    &config.timezone=Africa/Nairobi
+    &config.display=large"
+    alt="GitHub Metrics"
   />
 </p>
+
 
 ## 🏆 Key Projects
 
