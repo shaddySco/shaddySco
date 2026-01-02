@@ -42,17 +42,17 @@ I enjoy contributing to open-source, solving real problems, and mentoring other 
 
 ---
 
-## 📈 Dynamic Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=radical&bg_color=000000&title_color=f92404&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaddySco&theme=radical&background=000000&stroke=f92404&fire=f92404&ring=f92404&currStreakLabel=f92404&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="48%" alt="GitHub Streak" />
+  <img
+    src="https://metrics.lecoq.io/shaddySco?languages=1&languages.limit=6&template=classic&config.timezone=Africa/Nairobi"
+    width="49%"
+  />
+  <img
+    src="https://metrics.lecoq.io/shaddySco?streak=1&activity=1&template=classic&config.timezone=Africa/Nairobi"
+    width="49%"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=radical&bg_color=000000&title_color=f92404&text_color=ffffff&icon_color=f92404&hide_border=true&count_private=true" alt="General Stats" />
-</p>
 ## 🏆 Key Projects
 
 ### 🔧 Phone Inventory Management System
