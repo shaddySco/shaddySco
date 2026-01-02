@@ -49,9 +49,17 @@ I enjoy contributing to open-source, solving real problems, and mentoring other 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 
 <!-- Stats Cards -->
-### 📊 GitHub Metrics
-<img src="https://raw.githubusercontent.com/shaddySco/shaddySco/main/github-metrics.svg" />
+## 📊 Real-Time GitHub Insights
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=radical&bg_color=000000&title_color=f92404&text_color=ffffff&icon_color=f92404&hide_border=true&count_private=true" alt="Shadrack's Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=radical&bg_color=000000&title_color=f92404&text_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaddySco&theme=radical&background=000000&stroke=f92404&fire=f92404&ring=f92404&currStreakLabel=f92404" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🏆 Key Projects
