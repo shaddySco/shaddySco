@@ -1,72 +1,95 @@
-![Custom Font](https://img.shields.io/badge/Hi,%20I'm%20Shadrack%20Wahinya%20🐼-f92404?style=for-the-badge&labelColor=000000&logo=panda)
+<!-- Header -->
+![Header](https://img.shields.io/badge/Hi,%20I'm%20Shadrack%20Wahinya-f92404?style=for-the-badge&labelColor=000000)
 
-## 🚀 About Me  
-
-🔹 **Tech Enthusiast** — Passionate about software, web development, and problem-solving.  
-🔹 **Currently Learning** — Advanced Data Structures & Algorithms, System Design.  
-🔹 **Interests** — Full Stack Development, Open Source Contributions, Mentorship.  
-
-📚 _Always exploring and growing in tech!_
+# 👨‍💻 Shadrack Wahinya  
+**Software Developer | Full-Stack Engineer | System Design Enthusiast**
 
 ---
 
-## 🛠️ Tech Stack  
-<div align="center">
-  
-💻 **Programming & Scripting**  
-![PHP](https://img.shields.io/badge/PHP-f92404?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  
-![Python](https://img.shields.io/badge/Python-f92404?style=for-the-badge&logo=python&logoColor=white)  
+## 🚀 About Me
 
-🌐 **Web Technologies**  
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=f92404)  
-![CSS3](https://img.shields.io/badge/CSS3-f92404?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+I am a developer focused on building **efficient, scalable systems** and improving continuously through **algorithmic thinking, system design, and real projects**.
 
-🛠️ **Tools & Platforms**  
-![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)  
+I enjoy contributing to open-source, solving real problems, and mentoring other developers.
+
+---
+
+## 🎯 Current Focus
+
+- Advanced **Data Structures & Algorithms**
+- **System Design & Distributed Architectures**
+- **Full-Stack Web Development**
+- **Blockchain-centric Platforms**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-f92404?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-f92404?style=for-the-badge&logo=python&logoColor=white)
+
+### Web & Databases
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=f92404)
+![CSS3](https://img.shields.io/badge/CSS3-f92404?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-f92404?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f92404?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 🚀 GitHub Stats  
-
-<table>
-<tr>
-     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=github-dark" 
-           alt="GitHub Contribution Graph" />
-     </td>
-</tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&theme=solarized&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized" alt="Top Languages" /></td>
-  </tr>
-</table>
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ---
 
-## 🏆 Achievements  
+## 📊 GitHub Live Stats
 
-🎓 **Bachelor of Science in Business Information Technology**  
-🛠️ **Built a PHP-based phone inventory management system**  
-🌍 **Active in Open Source & Tech Mentorship**  
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddySco&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 
----
-
-## 📬 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadrackwahinya/)  
-[![Gmail](https://img.shields.io/badge/Gmail-f92404?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-
----
-
-## ⚡ Fun Fact  
-
-_"The only way to do great work is to love what you do."_ — **Steve Jobs**  
+<!-- Stats Cards -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaddySco&show_icons=true&count_private=true&theme=solarized-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddySco&layout=compact&theme=solarized-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-_Thanks for stopping by! 😊_
+## 🏆 Key Projects
 
+### 🔧 Phone Inventory Management System
+- Built using **PHP**
+- CRUD management & reporting
+- Demonstrates backend logic and data workflows
+
+### 🧠 DDVS — Developer Verification System (Blockchain)
+- Designed to **securely verify developer credentials**
+- Local blockchain deployment (Hardhat)
+- Contract integration and backend workflows
+
+*(Add links to live demos or repos if available.)*
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Business Information Technology**
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadrackwahinya/)
+[![Email](https://img.shields.io/badge/Email-f92404?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+## 💡 Quote
+
+> *“Build systems that are understandable, verifiable, and resilient.”* — Shadrack
+
+---
+
+⭐ If you want a **dark-minimal**, **developer portfolio**, or **project showcase** README variant, ask and I’ll generate it.
